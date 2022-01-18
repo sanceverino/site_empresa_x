@@ -20,4 +20,13 @@ melhoria 1, _melhoria 2_
     1. Subtarefa 1
     2. Subtarefa 2
     3. Subtarefa 3
-    
+
+#### Imagem Local
+
+![imagem](img\Anotacao 2022-01-11 163628.png)
+
+## Links interessantes:
+
+[Google](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed)
+
+[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed)
