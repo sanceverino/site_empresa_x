@@ -30,3 +30,9 @@ melhoria 1, _melhoria 2_
 [Google](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed)
 
 [https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/embed)
+
+```javascript
+function soma(a,b){
+    return a + b
+}
+---
