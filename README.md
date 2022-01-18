@@ -20,4 +20,8 @@ melhoria 1, _melhoria 2_
     1. Subtarefa 1
     2. Subtarefa 2
     3. Subtarefa 3
+
+#### Imagem Local
+
+![imagem](C:\Users\RodrigoSanceverinoGo\Ecommerce\img\Anotação 2022-01-11 163628.png)
     
